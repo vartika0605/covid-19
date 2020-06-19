@@ -41,19 +41,19 @@
     </nav>
     <div class="d-flex justify-content-around align-items-center">
       <div class="text-primary">
-        <h1 class ="count">6,879,502</h1>
+        <h1 class ="count">8,616,990</h1>
         <p>Confirmed</p>
       </div>
       <div class="text-success">
-        <h1 class ="count">398,737</h1>
+        <h1 class ="count">457,080</h1>
         <p>Deaths</p>
       </div>
       <div class="text-danger">
-        <h1 class ="count">3,371,219</h1>
+        <h1 class ="count">4,563,307</h1>
         <p>Recovered</p>
       </div>
       <div class="text-primary">
-        <h1 class ="count">3,109,546</h1>
+        <h1 class ="count">3,596,603</h1>
         <p>Active Cases</p>
       </div>
     </div>
